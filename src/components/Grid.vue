@@ -1,9 +1,9 @@
 <script setup lang="ts">
-const props = defineProps({
-    coupon:{
-        expiry:Number
+const props = defineProps<{
+    coupon: {
+        expiry: Number
     }
-})
+}>()
 </script>
 
 <template>

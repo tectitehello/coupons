@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/app.vue","./src/components/accordian.vue","./src/components/addbutton.vue","./src/components/caret.vue","./src/components/grid.vue","./src/components/modal.vue"],"version":"5.6.2"}
